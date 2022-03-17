@@ -16,11 +16,11 @@ For the translations you can use the translations.json file, you can use redis f
 
 ### About this Bot
 
-[🤖 Try @KeyGeneratorBot](https://t.me/KeyGeneratorBot)
+[🤖 Try @SimSimi_Bot](https://t.me/SimSimi_Bot)
 
-[⭐️ Rate on @BotsArchive](https://t.me/BotsArchive/129)
+[⭐️ Rate on @BotsArchive](https://t.me/BotsArchive/1133)
 
-[📲 Help with Translations](https://nelebots.oneskyapp.com/collaboration/translate/project/project/169330/)
+[📲 Help with Translations](https://nelebots.oneskyapp.com/collaboration/translate/project/project/168577/)
 
 ### About NeleBots
 
